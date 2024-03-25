@@ -41,21 +41,20 @@ Returns HTTP status code 500 with an error message if an unexpected error occurs
 - **Path Parameters:**
 - **id (UUID):** The unique identifier of the dispenser.
 - **Response:** Returns a response containing the dispenser's spending details.
-- {
-  "totalSpent": 250.5,
-  "history": [
-    {
-      "date": "2024-03-25T12:00:00Z",
-      "volume": 100,
-      "price": 50
-    },
-    {
-      "date": "2024-03-24T12:00:00Z",
-      "volume": 200,
-      "price": 100.5
-    }
-  ]
-}
+  ```json
+  {
+   "totalSpent": 250.5,
+   "history": [
+     {
+       "date": "2024-03-25T12:00:00Z",
+       "volume": 100,
+       "price": 50
+     },
+     {
+        "date": "2024-03-24T12:00:00Z",
+        "volume": 200, "price": 100.5
+     } ]
+   }
 
 ## Error Handling
 The API returns appropriate HTTP status codes along with error messages for any encountered errors.
