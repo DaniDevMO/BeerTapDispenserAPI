@@ -1,0 +1,4 @@
+BeerTapDispenserAPI\service\DispenserHistoryServiceTest.class
+BeerTapDispenserAPI\service\DispenserServiceTests.class
+BeerTapDispenserAPI\BeerTapDispenserApiApplicationTests.class
+BeerTapDispenserAPI\repository\DispenserHistoryRepoTest.class

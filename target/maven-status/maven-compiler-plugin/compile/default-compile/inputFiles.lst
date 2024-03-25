@@ -1,0 +1,16 @@
+D:\Documentos\Proyectos\BeerTapDispenserAPI\src\main\java\BeerTapDispenserAPI\entity\DispenserHistory.java
+D:\Documentos\Proyectos\BeerTapDispenserAPI\src\main\java\BeerTapDispenserAPI\service\DispenserService.java
+D:\Documentos\Proyectos\BeerTapDispenserAPI\src\main\java\BeerTapDispenserAPI\domain\enums\Status.java
+D:\Documentos\Proyectos\BeerTapDispenserAPI\src\main\java\BeerTapDispenserAPI\domain\enums\Role.java
+D:\Documentos\Proyectos\BeerTapDispenserAPI\src\main\java\BeerTapDispenserAPI\repositoy\DispenserRepo.java
+D:\Documentos\Proyectos\BeerTapDispenserAPI\src\main\java\BeerTapDispenserAPI\dto\ChangeStatusBodyDTO.java
+D:\Documentos\Proyectos\BeerTapDispenserAPI\src\main\java\BeerTapDispenserAPI\domain\CreateDispenserResponse.java
+D:\Documentos\Proyectos\BeerTapDispenserAPI\src\main\java\BeerTapDispenserAPI\service\DispenserHistoryServiceImpl.java
+D:\Documentos\Proyectos\BeerTapDispenserAPI\src\main\java\BeerTapDispenserAPI\service\mapper\DispenserHistoryToExpensesResponseMapper.java
+D:\Documentos\Proyectos\BeerTapDispenserAPI\src\main\java\BeerTapDispenserAPI\service\DispenserServiceImpl.java
+D:\Documentos\Proyectos\BeerTapDispenserAPI\src\main\java\BeerTapDispenserAPI\domain\ExpensesResponse.java
+D:\Documentos\Proyectos\BeerTapDispenserAPI\src\main\java\BeerTapDispenserAPI\controller\DispenserController.java
+D:\Documentos\Proyectos\BeerTapDispenserAPI\src\main\java\BeerTapDispenserAPI\repositoy\DispenserHistoryRepo.java
+D:\Documentos\Proyectos\BeerTapDispenserAPI\src\main\java\BeerTapDispenserAPI\service\DispenserHistoryService.java
+D:\Documentos\Proyectos\BeerTapDispenserAPI\src\main\java\BeerTapDispenserAPI\entity\Dispenser.java
+D:\Documentos\Proyectos\BeerTapDispenserAPI\src\main\java\BeerTapDispenserAPI\BeerTapDispenserApiApplication.java

@@ -1,0 +1,17 @@
+BeerTapDispenserAPI\domain\ExpensesResponse$Usage.class
+BeerTapDispenserAPI\entity\Dispenser.class
+BeerTapDispenserAPI\service\DispenserService.class
+BeerTapDispenserAPI\service\DispenserServiceImpl.class
+BeerTapDispenserAPI\service\mapper\DispenserHistoryToExpensesResponseMapper.class
+BeerTapDispenserAPI\repositoy\DispenserRepo.class
+BeerTapDispenserAPI\domain\enums\Role.class
+BeerTapDispenserAPI\domain\ExpensesResponse.class
+BeerTapDispenserAPI\domain\CreateDispenserResponse.class
+BeerTapDispenserAPI\domain\enums\Status.class
+BeerTapDispenserAPI\BeerTapDispenserApiApplication.class
+BeerTapDispenserAPI\dto\ChangeStatusBodyDTO.class
+BeerTapDispenserAPI\service\DispenserHistoryService.class
+BeerTapDispenserAPI\entity\DispenserHistory.class
+BeerTapDispenserAPI\service\DispenserHistoryServiceImpl.class
+BeerTapDispenserAPI\controller\DispenserController.class
+BeerTapDispenserAPI\repositoy\DispenserHistoryRepo.class
